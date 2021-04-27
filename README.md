@@ -17,7 +17,7 @@
     - Todo List App - [Svelte REPL](https://svelte.dev/repl/7eb8c1dd6cac414792b0edb53521ab49?version=3.20.1)
     - Simple Game - [Svelte Snake](https://github.com/benawad/svelte-snake)
 - Server-side rendering
-    - From Sapper to SvelteKit
+    - From Sapper to [SvelteKit](https://kit.svelte.dev/docs)
         - [What's the deal with SvelteKit?](https://svelte.dev/blog/whats-the-deal-with-sveltekit)
         - [SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta)
     - Examples
